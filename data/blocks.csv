@@ -1,21 +1,59 @@
-id,meta,name
-0,0,Air
-1,0,Stone
-1,1,Granite
-1,2,Polished Granite
-1,3,Diorite
-1,4,Polished Diorite
-1,5,Andesite
-1,6,Polished Andesite
-2,0,Grass
-3,0,Dirt
-3,1,Grassless Dirt
-3,2,Podzol
-4,0,Cobblestone
-5,0,Oak Wood Plank
-5,1,Spruce Wood Plank
-5,2,Birch Wood Plank
-5,3,Jungle Wood Plank
-5,4,Acacia Wood Plank
-5,5,Dark Oak Wood Plank
+id,meta,name,implemented since
+0,0,Air,1.0.x
+1,0,Stone,1.0.x
+1,1,Granite,1.8.x
+1,2,Polished Granite,1.8.x
+1,3,Diorite,1.8.x
+1,4,Polished Diorite,1.8.x
+1,5,Andesite,1.8.x
+1,6,Polished Andesite,1.8.x
+2,0,Grass,1.0.x
+3,0,Dirt,1.0.x
+3,1,Grassless Dirt,1.7.x
+3,2,Podzol,1.7.x
+4,0,Cobblestone,1.0.x
+5,0,Oak Wood Plank,1.0.x
+5,1,Spruce Wood Plank,1.0.x
+5,2,Birch Wood Plank,1.0.x
+5,3,Jungle Wood Plank,1.2.x
+5,4,Acacia Wood Plank,1.7.x
+5,5,Dark Oak Wood Plank,1.7.x
+6,0,Oak Sapling,1.0.x
+6,1,Spruce Sapling,1.0.x
+6,2,Birch Sapling,1.0.x
+6,3,Jungle Sapling,1.2.x
+6,4,Acacia Sapling,1.7.x
+6,5,Dark Oak Sapling,1.7.x
+7,0,Bedrock,1.0.x
+8,0,Flowing Water,1.0.x
+9,0,Water,1.0.x
+10,0,Flowing Lava,1.0.x
+11,0,Lava,1.0.x
+12,0,Sand,1.0.x
+12,1,Red Sand,1.7.x
+13,0,gravel,1.0.x
+14,0,Gold Ore,1.0.x
+15,0,Iron Ore,1.0.x
+16,0,Coal Ore,1.0.x
+17,0,Oak Wood,1.0.x
+17,1,Spruce Wood,1.0.x
+17,2,Birch Wood,1.0.x
+17,3,Jungle Wood,1.2.x
+18,0,Oak Leaves,1.0.x
+18,1,Spruce Leaves,1.0.x
+18,2,Birch Leaves,1.0.x
+18,3,Jungle Leaves,1.2.x
+18,4,Oak Leaves (no decay),1.0.x
+18,5,Spruce Leaves (no decay),1.0.x
+18,6,Birch Leaves (no decay),1.0.x
+18,7,Jungle Leaves (no decay),1.2.x
+19,0,Sponge,1.0.x
+20,0,Glass,1.0.x
+21,0,Lapis Lazuli Ore,1.0.x
+22,0,Lapis Lazuli Block,1.0.x
+23,0,Dispenser,1.0.x
+24,0,Sandstone,1.0.x
+24,1,Chiseled Sandstone,1.2.4
+24,2,Smooth Sandstone,1.2.4
+25,0,Noteblock,1.0.x
 
