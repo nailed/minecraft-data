@@ -7,7 +7,7 @@ import json
 __author__ = 'Martijn Reening'
 __version__ = '0.0.1'
 
-# Warning: hack-ish code aheat. It just werks(TM)
+# Warning: hack-ish code ahead. It just werks(TM)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Convert CSV files to JSON')
